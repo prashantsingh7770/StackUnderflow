@@ -1,0 +1,8 @@
+.main{
+background-color: #2D3748;
+}
+option {
+  background-color: white; /* option background */
+  color: black;
+  padding: 2px;
+}

@@ -1,0 +1,1377 @@
+[
+  {
+    "name": "Gold Necklace 1",
+    "desc": "High-quality jewelry item: Gold Necklace, perfect for all occasions.",
+    "price": 6626,
+    "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=400&q=80",
+    "category": "Jewelry",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 3.9,
+    "discountPercentage": 11
+  },
+  {
+    "name": "Luxury Perfume 2",
+    "desc": "High-quality perfume item: Luxury Perfume, perfect for all occasions.",
+    "price": 3338,
+    "imageUrl": "https://images.unsplash.com/photo-1585386959984-a41552231693?auto=format&fit=crop&w=400&q=80",
+    "category": "Perfume",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 3.8,
+    "discountPercentage": 19
+  },
+  {
+    "name": "Round Frame Glasses 3",
+    "desc": "High-quality glasses item: Round Frame Glasses, perfect for all occasions.",
+    "price": 9361,
+    "imageUrl": "https://images.unsplash.com/photo-1589644986561-3c9e2ec3a3dc?auto=format&fit=crop&w=400&q=80",
+    "category": "Glasses",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "rating": 3.9,
+    "discountPercentage": 6
+  },
+  {
+    "name": "Ocean Mist Cologne 4",
+    "desc": "High-quality perfume item: Ocean Mist Cologne, perfect for all occasions.",
+    "price": 9528,
+    "imageUrl": "https://images.unsplash.com/photo-1585386959984-a41552231693?auto=format&fit=crop&w=400&q=80",
+    "category": "Perfume",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "rating": 4.4,
+    "discountPercentage": 5
+  },
+  {
+    "name": "Formal Pants 5",
+    "desc": "High-quality clothing item: Formal Pants, perfect for all occasions.",
+    "price": 3423,
+    "imageUrl": "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47?auto=format&fit=crop&w=400&q=80",
+    "category": "Clothing",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "rating": 3.9,
+    "discountPercentage": 23
+  },
+  {
+    "name": "Matte Lipstick 6",
+    "desc": "High-quality cosmetics item: Matte Lipstick, perfect for all occasions.",
+    "price": 1963,
+    "imageUrl": "https://images.unsplash.com/photo-1589987607627-616cac36b83b?auto=format&fit=crop&w=400&q=80",
+    "category": "Cosmetics",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 4.1,
+    "discountPercentage": 13
+  },
+  {
+    "name": "Travel Backpack 7",
+    "desc": "High-quality bags item: Travel Backpack, perfect for all occasions.",
+    "price": 590,
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=400&q=80",
+    "category": "Bags",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "rating": 4.2,
+    "discountPercentage": 16
+  },
+  {
+    "name": "Leather Boots 8",
+    "desc": "High-quality footwear item: Leather Boots, perfect for all occasions.",
+    "price": 8912,
+    "imageUrl": "https://images.unsplash.com/photo-1600180758890-6f83b8b7e6d4?auto=format&fit=crop&w=400&q=80",
+    "category": "Footwear",
+    "sizes": [],
+    "rating": 4.8,
+    "discountPercentage": 13
+  },
+  {
+    "name": "Rose Essence 9",
+    "desc": "High-quality perfume item: Rose Essence, perfect for all occasions.",
+    "price": 5985,
+    "imageUrl": "https://images.unsplash.com/photo-1585386959984-a41552231693?auto=format&fit=crop&w=400&q=80",
+    "category": "Perfume",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 4.2,
+    "discountPercentage": 22
+  },
+  {
+    "name": "Leather Boots 10",
+    "desc": "High-quality footwear item: Leather Boots, perfect for all occasions.",
+    "price": 1440,
+    "imageUrl": "https://images.unsplash.com/photo-1600180758890-6f83b8b7e6d4?auto=format&fit=crop&w=400&q=80",
+    "category": "Footwear",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "rating": 4.1,
+    "discountPercentage": 5
+  },
+  {
+    "name": "Hydrating Cream 11",
+    "desc": "High-quality cosmetics item: Hydrating Cream, perfect for all occasions.",
+    "price": 4186,
+    "imageUrl": "https://images.unsplash.com/photo-1589987607627-616cac36b83b?auto=format&fit=crop&w=400&q=80",
+    "category": "Cosmetics",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 4.0,
+    "discountPercentage": 23
+  },
+  {
+    "name": "Diamond Earrings 12",
+    "desc": "High-quality jewelry item: Diamond Earrings, perfect for all occasions.",
+    "price": 5267,
+    "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=400&q=80",
+    "category": "Jewelry",
+    "sizes": [],
+    "rating": 4.1,
+    "discountPercentage": 22
+  },
+  {
+    "name": "Classic Shades 13",
+    "desc": "High-quality glasses item: Classic Shades, perfect for all occasions.",
+    "price": 9408,
+    "imageUrl": "https://images.unsplash.com/photo-1589644986561-3c9e2ec3a3dc?auto=format&fit=crop&w=400&q=80",
+    "category": "Glasses",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 4.3,
+    "discountPercentage": 12
+  },
+  {
+    "name": "Matte Lipstick 14",
+    "desc": "High-quality cosmetics item: Matte Lipstick, perfect for all occasions.",
+    "price": 8221,
+    "imageUrl": "https://images.unsplash.com/photo-1589987607627-616cac36b83b?auto=format&fit=crop&w=400&q=80",
+    "category": "Cosmetics",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "rating": 4.2,
+    "discountPercentage": 23
+  },
+  {
+    "name": "Amber Musk 15",
+    "desc": "High-quality perfume item: Amber Musk, perfect for all occasions.",
+    "price": 2010,
+    "imageUrl": "https://images.unsplash.com/photo-1585386959984-a41552231693?auto=format&fit=crop&w=400&q=80",
+    "category": "Perfume",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 4.3,
+    "discountPercentage": 8
+  },
+  {
+    "name": "Leather Handbag 16",
+    "desc": "High-quality bags item: Leather Handbag, perfect for all occasions.",
+    "price": 5234,
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=400&q=80",
+    "category": "Bags",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 4.0,
+    "discountPercentage": 10
+  },
+  {
+    "name": "Denim Jacket 17",
+    "desc": "High-quality clothing item: Denim Jacket, perfect for all occasions.",
+    "price": 2903,
+    "imageUrl": "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47?auto=format&fit=crop&w=400&q=80",
+    "category": "Clothing",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "rating": 4.1,
+    "discountPercentage": 25
+  },
+  {
+    "name": "Eyeliner Set 18",
+    "desc": "High-quality cosmetics item: Eyeliner Set, perfect for all occasions.",
+    "price": 822,
+    "imageUrl": "https://images.unsplash.com/photo-1589987607627-616cac36b83b?auto=format&fit=crop&w=400&q=80",
+    "category": "Cosmetics",
+    "sizes": [],
+    "rating": 3.9,
+    "discountPercentage": 6
+  },
+  {
+    "name": "Blue Light Blockers 19",
+    "desc": "High-quality glasses item: Blue Light Blockers, perfect for all occasions.",
+    "price": 5816,
+    "imageUrl": "https://images.unsplash.com/photo-1589644986561-3c9e2ec3a3dc?auto=format&fit=crop&w=400&q=80",
+    "category": "Glasses",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "rating": 4.7,
+    "discountPercentage": 15
+  },
+  {
+    "name": "Round Frame Glasses 20",
+    "desc": "High-quality glasses item: Round Frame Glasses, perfect for all occasions.",
+    "price": 5914,
+    "imageUrl": "https://images.unsplash.com/photo-1589644986561-3c9e2ec3a3dc?auto=format&fit=crop&w=400&q=80",
+    "category": "Glasses",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 4.5,
+    "discountPercentage": 6
+  },
+  {
+    "name": "Casual Hoodie 21",
+    "desc": "High-quality clothing item: Casual Hoodie, perfect for all occasions.",
+    "price": 4685,
+    "imageUrl": "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47?auto=format&fit=crop&w=400&q=80",
+    "category": "Clothing",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "rating": 4.6,
+    "discountPercentage": 19
+  },
+  {
+    "name": "Hydrating Cream 22",
+    "desc": "High-quality cosmetics item: Hydrating Cream, perfect for all occasions.",
+    "price": 3494,
+    "imageUrl": "https://images.unsplash.com/photo-1589987607627-616cac36b83b?auto=format&fit=crop&w=400&q=80",
+    "category": "Cosmetics",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 5.0,
+    "discountPercentage": 25
+  },
+  {
+    "name": "Rose Essence 23",
+    "desc": "High-quality perfume item: Rose Essence, perfect for all occasions.",
+    "price": 9026,
+    "imageUrl": "https://images.unsplash.com/photo-1585386959984-a41552231693?auto=format&fit=crop&w=400&q=80",
+    "category": "Perfume",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 3.9,
+    "discountPercentage": 11
+  },
+  {
+    "name": "Matte Lipstick 24",
+    "desc": "High-quality cosmetics item: Matte Lipstick, perfect for all occasions.",
+    "price": 1930,
+    "imageUrl": "https://images.unsplash.com/photo-1589987607627-616cac36b83b?auto=format&fit=crop&w=400&q=80",
+    "category": "Cosmetics",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 3.8,
+    "discountPercentage": 13
+  },
+  {
+    "name": "Sport Sandals 25",
+    "desc": "High-quality footwear item: Sport Sandals, perfect for all occasions.",
+    "price": 5400,
+    "imageUrl": "https://images.unsplash.com/photo-1600180758890-6f83b8b7e6d4?auto=format&fit=crop&w=400&q=80",
+    "category": "Footwear",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "rating": 3.9,
+    "discountPercentage": 5
+  },
+  {
+    "name": "Eyeliner Set 26",
+    "desc": "High-quality cosmetics item: Eyeliner Set, perfect for all occasions.",
+    "price": 4220,
+    "imageUrl": "https://images.unsplash.com/photo-1589987607627-616cac36b83b?auto=format&fit=crop&w=400&q=80",
+    "category": "Cosmetics",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "rating": 3.9,
+    "discountPercentage": 14
+  },
+  {
+    "name": "Aviator Sunglasses 27",
+    "desc": "High-quality glasses item: Aviator Sunglasses, perfect for all occasions.",
+    "price": 5379,
+    "imageUrl": "https://images.unsplash.com/photo-1589644986561-3c9e2ec3a3dc?auto=format&fit=crop&w=400&q=80",
+    "category": "Glasses",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "rating": 4.6,
+    "discountPercentage": 25
+  },
+  {
+    "name": "Gold Necklace 28",
+    "desc": "High-quality jewelry item: Gold Necklace, perfect for all occasions.",
+    "price": 776,
+    "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=400&q=80",
+    "category": "Jewelry",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "rating": 4.8,
+    "discountPercentage": 24
+  },
+  {
+    "name": "Classic Shades 29",
+    "desc": "High-quality glasses item: Classic Shades, perfect for all occasions.",
+    "price": 7668,
+    "imageUrl": "https://images.unsplash.com/photo-1589644986561-3c9e2ec3a3dc?auto=format&fit=crop&w=400&q=80",
+    "category": "Glasses",
+    "sizes": [],
+    "rating": 4.0,
+    "discountPercentage": 11
+  },
+  {
+    "name": "Classic Shades 30",
+    "desc": "High-quality glasses item: Classic Shades, perfect for all occasions.",
+    "price": 9183,
+    "imageUrl": "https://images.unsplash.com/photo-1589644986561-3c9e2ec3a3dc?auto=format&fit=crop&w=400&q=80",
+    "category": "Glasses",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "rating": 3.9,
+    "discountPercentage": 24
+  },
+  {
+    "name": "Round Frame Glasses 31",
+    "desc": "High-quality glasses item: Round Frame Glasses, perfect for all occasions.",
+    "price": 6688,
+    "imageUrl": "https://images.unsplash.com/photo-1589644986561-3c9e2ec3a3dc?auto=format&fit=crop&w=400&q=80",
+    "category": "Glasses",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "rating": 4.0,
+    "discountPercentage": 7
+  },
+  {
+    "name": "Gemstone Ring 32",
+    "desc": "High-quality jewelry item: Gemstone Ring, perfect for all occasions.",
+    "price": 2643,
+    "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=400&q=80",
+    "category": "Jewelry",
+    "sizes": [],
+    "rating": 4.8,
+    "discountPercentage": 9
+  },
+  {
+    "name": "Ocean Mist Cologne 33",
+    "desc": "High-quality perfume item: Ocean Mist Cologne, perfect for all occasions.",
+    "price": 9782,
+    "imageUrl": "https://images.unsplash.com/photo-1585386959984-a41552231693?auto=format&fit=crop&w=400&q=80",
+    "category": "Perfume",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 3.9,
+    "discountPercentage": 18
+  },
+  {
+    "name": "Gold Necklace 34",
+    "desc": "High-quality jewelry item: Gold Necklace, perfect for all occasions.",
+    "price": 5137,
+    "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=400&q=80",
+    "category": "Jewelry",
+    "sizes": [],
+    "rating": 4.1,
+    "discountPercentage": 11
+  },
+  {
+    "name": "Ocean Mist Cologne 35",
+    "desc": "High-quality perfume item: Ocean Mist Cologne, perfect for all occasions.",
+    "price": 2580,
+    "imageUrl": "https://images.unsplash.com/photo-1585386959984-a41552231693?auto=format&fit=crop&w=400&q=80",
+    "category": "Perfume",
+    "sizes": [],
+    "rating": 4.9,
+    "discountPercentage": 7
+  },
+  {
+    "name": "Classic Shades 36",
+    "desc": "High-quality glasses item: Classic Shades, perfect for all occasions.",
+    "price": 4803,
+    "imageUrl": "https://images.unsplash.com/photo-1589644986561-3c9e2ec3a3dc?auto=format&fit=crop&w=400&q=80",
+    "category": "Glasses",
+    "sizes": [],
+    "rating": 4.3,
+    "discountPercentage": 5
+  },
+  {
+    "name": "Formal Loafers 37",
+    "desc": "High-quality footwear item: Formal Loafers, perfect for all occasions.",
+    "price": 4850,
+    "imageUrl": "https://images.unsplash.com/photo-1600180758890-6f83b8b7e6d4?auto=format&fit=crop&w=400&q=80",
+    "category": "Footwear",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "rating": 4.3,
+    "discountPercentage": 25
+  },
+  {
+    "name": "Travel Backpack 38",
+    "desc": "High-quality bags item: Travel Backpack, perfect for all occasions.",
+    "price": 1319,
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=400&q=80",
+    "category": "Bags",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "rating": 4.3,
+    "discountPercentage": 14
+  },
+  {
+    "name": "Travel Backpack 39",
+    "desc": "High-quality bags item: Travel Backpack, perfect for all occasions.",
+    "price": 3334,
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=400&q=80",
+    "category": "Bags",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "rating": 4.1,
+    "discountPercentage": 15
+  },
+  {
+    "name": "Aviator Sunglasses 40",
+    "desc": "High-quality glasses item: Aviator Sunglasses, perfect for all occasions.",
+    "price": 2543,
+    "imageUrl": "https://images.unsplash.com/photo-1589644986561-3c9e2ec3a3dc?auto=format&fit=crop&w=400&q=80",
+    "category": "Glasses",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 4.4,
+    "discountPercentage": 11
+  },
+  {
+    "name": "Summer T-Shirt 41",
+    "desc": "High-quality clothing item: Summer T-Shirt, perfect for all occasions.",
+    "price": 2753,
+    "imageUrl": "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47?auto=format&fit=crop&w=400&q=80",
+    "category": "Clothing",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "rating": 4.4,
+    "discountPercentage": 8
+  },
+  {
+    "name": "Casual Hoodie 42",
+    "desc": "High-quality clothing item: Casual Hoodie, perfect for all occasions.",
+    "price": 4917,
+    "imageUrl": "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47?auto=format&fit=crop&w=400&q=80",
+    "category": "Clothing",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "rating": 4.8,
+    "discountPercentage": 25
+  },
+  {
+    "name": "Laptop Bag 43",
+    "desc": "High-quality bags item: Laptop Bag, perfect for all occasions.",
+    "price": 2264,
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=400&q=80",
+    "category": "Bags",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 4.0,
+    "discountPercentage": 22
+  },
+  {
+    "name": "Rose Essence 44",
+    "desc": "High-quality perfume item: Rose Essence, perfect for all occasions.",
+    "price": 8226,
+    "imageUrl": "https://images.unsplash.com/photo-1585386959984-a41552231693?auto=format&fit=crop&w=400&q=80",
+    "category": "Perfume",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "rating": 3.8,
+    "discountPercentage": 15
+  },
+  {
+    "name": "Ocean Mist Cologne 45",
+    "desc": "High-quality perfume item: Ocean Mist Cologne, perfect for all occasions.",
+    "price": 3136,
+    "imageUrl": "https://images.unsplash.com/photo-1585386959984-a41552231693?auto=format&fit=crop&w=400&q=80",
+    "category": "Perfume",
+    "sizes": [],
+    "rating": 4.8,
+    "discountPercentage": 15
+  },
+  {
+    "name": "Gold Necklace 46",
+    "desc": "High-quality jewelry item: Gold Necklace, perfect for all occasions.",
+    "price": 8079,
+    "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=400&q=80",
+    "category": "Jewelry",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 4.4,
+    "discountPercentage": 21
+  },
+  {
+    "name": "Amber Musk 47",
+    "desc": "High-quality perfume item: Amber Musk, perfect for all occasions.",
+    "price": 4750,
+    "imageUrl": "https://images.unsplash.com/photo-1585386959984-a41552231693?auto=format&fit=crop&w=400&q=80",
+    "category": "Perfume",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "rating": 3.9,
+    "discountPercentage": 17
+  },
+  {
+    "name": "Sling Bag 48",
+    "desc": "High-quality bags item: Sling Bag, perfect for all occasions.",
+    "price": 671,
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=400&q=80",
+    "category": "Bags",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "rating": 4.6,
+    "discountPercentage": 23
+  },
+  {
+    "name": "Hydrating Cream 49",
+    "desc": "High-quality cosmetics item: Hydrating Cream, perfect for all occasions.",
+    "price": 8950,
+    "imageUrl": "https://images.unsplash.com/photo-1589987607627-616cac36b83b?auto=format&fit=crop&w=400&q=80",
+    "category": "Cosmetics",
+    "sizes": [],
+    "rating": 4.8,
+    "discountPercentage": 5
+  },
+  {
+    "name": "Pearl Pendant 50",
+    "desc": "High-quality jewelry item: Pearl Pendant, perfect for all occasions.",
+    "price": 3649,
+    "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=400&q=80",
+    "category": "Jewelry",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "rating": 4.5,
+    "discountPercentage": 15
+  },
+  {
+    "name": "Blue Light Blockers 51",
+    "desc": "High-quality glasses item: Blue Light Blockers, perfect for all occasions.",
+    "price": 3177,
+    "imageUrl": "https://images.unsplash.com/photo-1589644986561-3c9e2ec3a3dc?auto=format&fit=crop&w=400&q=80",
+    "category": "Glasses",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "rating": 4.9,
+    "discountPercentage": 23
+  },
+  {
+    "name": "Classic Cotton Shirt 52",
+    "desc": "High-quality clothing item: Classic Cotton Shirt, perfect for all occasions.",
+    "price": 9377,
+    "imageUrl": "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47?auto=format&fit=crop&w=400&q=80",
+    "category": "Clothing",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "rating": 4.8,
+    "discountPercentage": 6
+  },
+  {
+    "name": "Classic Cotton Shirt 53",
+    "desc": "High-quality clothing item: Classic Cotton Shirt, perfect for all occasions.",
+    "price": 6991,
+    "imageUrl": "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47?auto=format&fit=crop&w=400&q=80",
+    "category": "Clothing",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "rating": 4.4,
+    "discountPercentage": 11
+  },
+  {
+    "name": "Night Bloom Perfume 54",
+    "desc": "High-quality perfume item: Night Bloom Perfume, perfect for all occasions.",
+    "price": 5350,
+    "imageUrl": "https://images.unsplash.com/photo-1585386959984-a41552231693?auto=format&fit=crop&w=400&q=80",
+    "category": "Perfume",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "rating": 3.9,
+    "discountPercentage": 25
+  },
+  {
+    "name": "Denim Jacket 55",
+    "desc": "High-quality clothing item: Denim Jacket, perfect for all occasions.",
+    "price": 9302,
+    "imageUrl": "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47?auto=format&fit=crop&w=400&q=80",
+    "category": "Clothing",
+    "sizes": [],
+    "rating": 4.0,
+    "discountPercentage": 5
+  },
+  {
+    "name": "Formal Pants 56",
+    "desc": "High-quality clothing item: Formal Pants, perfect for all occasions.",
+    "price": 5297,
+    "imageUrl": "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47?auto=format&fit=crop&w=400&q=80",
+    "category": "Clothing",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "rating": 3.9,
+    "discountPercentage": 10
+  },
+  {
+    "name": "Night Bloom Perfume 57",
+    "desc": "High-quality perfume item: Night Bloom Perfume, perfect for all occasions.",
+    "price": 5273,
+    "imageUrl": "https://images.unsplash.com/photo-1585386959984-a41552231693?auto=format&fit=crop&w=400&q=80",
+    "category": "Perfume",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "rating": 4.4,
+    "discountPercentage": 13
+  },
+  {
+    "name": "Hydrating Cream 58",
+    "desc": "High-quality cosmetics item: Hydrating Cream, perfect for all occasions.",
+    "price": 7053,
+    "imageUrl": "https://images.unsplash.com/photo-1589987607627-616cac36b83b?auto=format&fit=crop&w=400&q=80",
+    "category": "Cosmetics",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "rating": 3.9,
+    "discountPercentage": 22
+  },
+  {
+    "name": "Gold Necklace 59",
+    "desc": "High-quality jewelry item: Gold Necklace, perfect for all occasions.",
+    "price": 6907,
+    "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=400&q=80",
+    "category": "Jewelry",
+    "sizes": [],
+    "rating": 4.4,
+    "discountPercentage": 6
+  },
+  {
+    "name": "Ocean Mist Cologne 60",
+    "desc": "High-quality perfume item: Ocean Mist Cologne, perfect for all occasions.",
+    "price": 5615,
+    "imageUrl": "https://images.unsplash.com/photo-1585386959984-a41552231693?auto=format&fit=crop&w=400&q=80",
+    "category": "Perfume",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 4.0,
+    "discountPercentage": 18
+  },
+  {
+    "name": "Travel Backpack 61",
+    "desc": "High-quality bags item: Travel Backpack, perfect for all occasions.",
+    "price": 8249,
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=400&q=80",
+    "category": "Bags",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "rating": 4.3,
+    "discountPercentage": 17
+  },
+  {
+    "name": "Hydrating Cream 62",
+    "desc": "High-quality cosmetics item: Hydrating Cream, perfect for all occasions.",
+    "price": 1484,
+    "imageUrl": "https://images.unsplash.com/photo-1589987607627-616cac36b83b?auto=format&fit=crop&w=400&q=80",
+    "category": "Cosmetics",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "rating": 4.8,
+    "discountPercentage": 15
+  },
+  {
+    "name": "Leather Boots 63",
+    "desc": "High-quality footwear item: Leather Boots, perfect for all occasions.",
+    "price": 3731,
+    "imageUrl": "https://images.unsplash.com/photo-1600180758890-6f83b8b7e6d4?auto=format&fit=crop&w=400&q=80",
+    "category": "Footwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 3.9,
+    "discountPercentage": 22
+  },
+  {
+    "name": "Gold Necklace 64",
+    "desc": "High-quality jewelry item: Gold Necklace, perfect for all occasions.",
+    "price": 8953,
+    "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=400&q=80",
+    "category": "Jewelry",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "rating": 3.9,
+    "discountPercentage": 6
+  },
+  {
+    "name": "Compact Makeup Kit 65",
+    "desc": "High-quality cosmetics item: Compact Makeup Kit, perfect for all occasions.",
+    "price": 6031,
+    "imageUrl": "https://images.unsplash.com/photo-1589987607627-616cac36b83b?auto=format&fit=crop&w=400&q=80",
+    "category": "Cosmetics",
+    "sizes": [],
+    "rating": 4.0,
+    "discountPercentage": 7
+  },
+  {
+    "name": "Leather Handbag 66",
+    "desc": "High-quality bags item: Leather Handbag, perfect for all occasions.",
+    "price": 3729,
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=400&q=80",
+    "category": "Bags",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 4.1,
+    "discountPercentage": 18
+  },
+  {
+    "name": "Gemstone Ring 67",
+    "desc": "High-quality jewelry item: Gemstone Ring, perfect for all occasions.",
+    "price": 8787,
+    "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=400&q=80",
+    "category": "Jewelry",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "rating": 4.2,
+    "discountPercentage": 5
+  },
+  {
+    "name": "Leather Boots 68",
+    "desc": "High-quality footwear item: Leather Boots, perfect for all occasions.",
+    "price": 8372,
+    "imageUrl": "https://images.unsplash.com/photo-1600180758890-6f83b8b7e6d4?auto=format&fit=crop&w=400&q=80",
+    "category": "Footwear",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "rating": 4.7,
+    "discountPercentage": 24
+  },
+  {
+    "name": "Luxury Perfume 69",
+    "desc": "High-quality perfume item: Luxury Perfume, perfect for all occasions.",
+    "price": 2713,
+    "imageUrl": "https://images.unsplash.com/photo-1585386959984-a41552231693?auto=format&fit=crop&w=400&q=80",
+    "category": "Perfume",
+    "sizes": [],
+    "rating": 4.9,
+    "discountPercentage": 23
+  },
+  {
+    "name": "Silver Bracelet 70",
+    "desc": "High-quality jewelry item: Silver Bracelet, perfect for all occasions.",
+    "price": 5468,
+    "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=400&q=80",
+    "category": "Jewelry",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "rating": 4.9,
+    "discountPercentage": 16
+  },
+  {
+    "name": "Luxury Perfume 71",
+    "desc": "High-quality perfume item: Luxury Perfume, perfect for all occasions.",
+    "price": 3293,
+    "imageUrl": "https://images.unsplash.com/photo-1585386959984-a41552231693?auto=format&fit=crop&w=400&q=80",
+    "category": "Perfume",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 4.7,
+    "discountPercentage": 19
+  },
+  {
+    "name": "Travel Backpack 72",
+    "desc": "High-quality bags item: Travel Backpack, perfect for all occasions.",
+    "price": 1114,
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=400&q=80",
+    "category": "Bags",
+    "sizes": [],
+    "rating": 4.7,
+    "discountPercentage": 17
+  },
+  {
+    "name": "Ocean Mist Cologne 73",
+    "desc": "High-quality perfume item: Ocean Mist Cologne, perfect for all occasions.",
+    "price": 9683,
+    "imageUrl": "https://images.unsplash.com/photo-1585386959984-a41552231693?auto=format&fit=crop&w=400&q=80",
+    "category": "Perfume",
+    "sizes": [],
+    "rating": 4.6,
+    "discountPercentage": 11
+  },
+  {
+    "name": "Eyeliner Set 74",
+    "desc": "High-quality cosmetics item: Eyeliner Set, perfect for all occasions.",
+    "price": 8137,
+    "imageUrl": "https://images.unsplash.com/photo-1589987607627-616cac36b83b?auto=format&fit=crop&w=400&q=80",
+    "category": "Cosmetics",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "rating": 4.0,
+    "discountPercentage": 9
+  },
+  {
+    "name": "Formal Loafers 75",
+    "desc": "High-quality footwear item: Formal Loafers, perfect for all occasions.",
+    "price": 8358,
+    "imageUrl": "https://images.unsplash.com/photo-1600180758890-6f83b8b7e6d4?auto=format&fit=crop&w=400&q=80",
+    "category": "Footwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 3.8,
+    "discountPercentage": 8
+  },
+  {
+    "name": "Ocean Mist Cologne 76",
+    "desc": "High-quality perfume item: Ocean Mist Cologne, perfect for all occasions.",
+    "price": 5427,
+    "imageUrl": "https://images.unsplash.com/photo-1585386959984-a41552231693?auto=format&fit=crop&w=400&q=80",
+    "category": "Perfume",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "rating": 4.4,
+    "discountPercentage": 20
+  },
+  {
+    "name": "Leather Boots 77",
+    "desc": "High-quality footwear item: Leather Boots, perfect for all occasions.",
+    "price": 4012,
+    "imageUrl": "https://images.unsplash.com/photo-1600180758890-6f83b8b7e6d4?auto=format&fit=crop&w=400&q=80",
+    "category": "Footwear",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "rating": 3.9,
+    "discountPercentage": 18
+  },
+  {
+    "name": "Sport Sandals 78",
+    "desc": "High-quality footwear item: Sport Sandals, perfect for all occasions.",
+    "price": 5843,
+    "imageUrl": "https://images.unsplash.com/photo-1600180758890-6f83b8b7e6d4?auto=format&fit=crop&w=400&q=80",
+    "category": "Footwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 4.0,
+    "discountPercentage": 23
+  },
+  {
+    "name": "Tote Bag 79",
+    "desc": "High-quality bags item: Tote Bag, perfect for all occasions.",
+    "price": 2648,
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=400&q=80",
+    "category": "Bags",
+    "sizes": [],
+    "rating": 4.5,
+    "discountPercentage": 20
+  },
+  {
+    "name": "Travel Backpack 80",
+    "desc": "High-quality bags item: Travel Backpack, perfect for all occasions.",
+    "price": 2956,
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=400&q=80",
+    "category": "Bags",
+    "sizes": [],
+    "rating": 4.9,
+    "discountPercentage": 22
+  },
+  {
+    "name": "Leather Handbag 81",
+    "desc": "High-quality bags item: Leather Handbag, perfect for all occasions.",
+    "price": 2937,
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=400&q=80",
+    "category": "Bags",
+    "sizes": [],
+    "rating": 4.8,
+    "discountPercentage": 25
+  },
+  {
+    "name": "Diamond Earrings 82",
+    "desc": "High-quality jewelry item: Diamond Earrings, perfect for all occasions.",
+    "price": 3402,
+    "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=400&q=80",
+    "category": "Jewelry",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "rating": 4.6,
+    "discountPercentage": 21
+  },
+  {
+    "name": "Compact Makeup Kit 83",
+    "desc": "High-quality cosmetics item: Compact Makeup Kit, perfect for all occasions.",
+    "price": 6826,
+    "imageUrl": "https://images.unsplash.com/photo-1589987607627-616cac36b83b?auto=format&fit=crop&w=400&q=80",
+    "category": "Cosmetics",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "rating": 4.7,
+    "discountPercentage": 11
+  },
+  {
+    "name": "Matte Lipstick 84",
+    "desc": "High-quality cosmetics item: Matte Lipstick, perfect for all occasions.",
+    "price": 8806,
+    "imageUrl": "https://images.unsplash.com/photo-1589987607627-616cac36b83b?auto=format&fit=crop&w=400&q=80",
+    "category": "Cosmetics",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 5.0,
+    "discountPercentage": 20
+  },
+  {
+    "name": "Gemstone Ring 85",
+    "desc": "High-quality jewelry item: Gemstone Ring, perfect for all occasions.",
+    "price": 8057,
+    "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=400&q=80",
+    "category": "Jewelry",
+    "sizes": [],
+    "rating": 4.7,
+    "discountPercentage": 7
+  },
+  {
+    "name": "Eyeliner Set 86",
+    "desc": "High-quality cosmetics item: Eyeliner Set, perfect for all occasions.",
+    "price": 893,
+    "imageUrl": "https://images.unsplash.com/photo-1589987607627-616cac36b83b?auto=format&fit=crop&w=400&q=80",
+    "category": "Cosmetics",
+    "sizes": [],
+    "rating": 4.3,
+    "discountPercentage": 6
+  },
+  {
+    "name": "Sling Bag 87",
+    "desc": "High-quality bags item: Sling Bag, perfect for all occasions.",
+    "price": 1069,
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=400&q=80",
+    "category": "Bags",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 4.6,
+    "discountPercentage": 22
+  },
+  {
+    "name": "Denim Jacket 88",
+    "desc": "High-quality clothing item: Denim Jacket, perfect for all occasions.",
+    "price": 6685,
+    "imageUrl": "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47?auto=format&fit=crop&w=400&q=80",
+    "category": "Clothing",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "rating": 3.9,
+    "discountPercentage": 14
+  },
+  {
+    "name": "Canvas Sneakers 89",
+    "desc": "High-quality footwear item: Canvas Sneakers, perfect for all occasions.",
+    "price": 6033,
+    "imageUrl": "https://images.unsplash.com/photo-1600180758890-6f83b8b7e6d4?auto=format&fit=crop&w=400&q=80",
+    "category": "Footwear",
+    "sizes": [],
+    "rating": 4.3,
+    "discountPercentage": 5
+  },
+  {
+    "name": "Matte Lipstick 90",
+    "desc": "High-quality cosmetics item: Matte Lipstick, perfect for all occasions.",
+    "price": 1127,
+    "imageUrl": "https://images.unsplash.com/photo-1589987607627-616cac36b83b?auto=format&fit=crop&w=400&q=80",
+    "category": "Cosmetics",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 4.6,
+    "discountPercentage": 15
+  },
+  {
+    "name": "Formal Pants 91",
+    "desc": "High-quality clothing item: Formal Pants, perfect for all occasions.",
+    "price": 9292,
+    "imageUrl": "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47?auto=format&fit=crop&w=400&q=80",
+    "category": "Clothing",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "rating": 4.6,
+    "discountPercentage": 10
+  },
+  {
+    "name": "Sling Bag 92",
+    "desc": "High-quality bags item: Sling Bag, perfect for all occasions.",
+    "price": 2941,
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=400&q=80",
+    "category": "Bags",
+    "sizes": [],
+    "rating": 5.0,
+    "discountPercentage": 13
+  },
+  {
+    "name": "Amber Musk 93",
+    "desc": "High-quality perfume item: Amber Musk, perfect for all occasions.",
+    "price": 8565,
+    "imageUrl": "https://images.unsplash.com/photo-1585386959984-a41552231693?auto=format&fit=crop&w=400&q=80",
+    "category": "Perfume",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "rating": 4.3,
+    "discountPercentage": 20
+  },
+  {
+    "name": "Leather Handbag 94",
+    "desc": "High-quality bags item: Leather Handbag, perfect for all occasions.",
+    "price": 3133,
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=400&q=80",
+    "category": "Bags",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "rating": 3.9,
+    "discountPercentage": 14
+  },
+  {
+    "name": "Matte Lipstick 95",
+    "desc": "High-quality cosmetics item: Matte Lipstick, perfect for all occasions.",
+    "price": 5523,
+    "imageUrl": "https://images.unsplash.com/photo-1589987607627-616cac36b83b?auto=format&fit=crop&w=400&q=80",
+    "category": "Cosmetics",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "rating": 4.6,
+    "discountPercentage": 7
+  },
+  {
+    "name": "Amber Musk 96",
+    "desc": "High-quality perfume item: Amber Musk, perfect for all occasions.",
+    "price": 8132,
+    "imageUrl": "https://images.unsplash.com/photo-1585386959984-a41552231693?auto=format&fit=crop&w=400&q=80",
+    "category": "Perfume",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "rating": 3.8,
+    "discountPercentage": 12
+  },
+  {
+    "name": "Sling Bag 97",
+    "desc": "High-quality bags item: Sling Bag, perfect for all occasions.",
+    "price": 1371,
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=400&q=80",
+    "category": "Bags",
+    "sizes": [],
+    "rating": 4.9,
+    "discountPercentage": 18
+  },
+  {
+    "name": "Tote Bag 98",
+    "desc": "High-quality bags item: Tote Bag, perfect for all occasions.",
+    "price": 6274,
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=400&q=80",
+    "category": "Bags",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "rating": 4.7,
+    "discountPercentage": 9
+  },
+  {
+    "name": "Travel Backpack 99",
+    "desc": "High-quality bags item: Travel Backpack, perfect for all occasions.",
+    "price": 6242,
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=400&q=80",
+    "category": "Bags",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "rating": 4.0,
+    "discountPercentage": 7
+  },
+  {
+    "name": "Classic Cotton Shirt 100",
+    "desc": "High-quality clothing item: Classic Cotton Shirt, perfect for all occasions.",
+    "price": 9693,
+    "imageUrl": "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47?auto=format&fit=crop&w=400&q=80",
+    "category": "Clothing",
+    "sizes": [],
+    "rating": 4.8,
+    "discountPercentage": 23
+  }
+]
