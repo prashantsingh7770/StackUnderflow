@@ -3,6 +3,7 @@ import { useParams, useNavigate } from "react-router-dom";
 import { ProductContext } from "../Context/ProductContext";
 import { toast } from "sonner";
 import { useAuth } from "@/Context/AuthContext";
+import { API_BASE } from "@/api";
 
 const ProductDetails = () => {
   const { token } = useAuth();
@@ -38,7 +39,7 @@ const ProductDetails = () => {
     if (!product) return;
 
     try {
-      const res = await fetch("http://localhost:3000/api/cart/", {
+      const res = await fetch(`${API_BASE}/api/cart/`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

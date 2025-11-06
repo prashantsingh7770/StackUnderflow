@@ -3,6 +3,7 @@ import { useState, useEffect, useCallback, useMemo } from "react";
 import { useNavigate } from "react-router-dom";
 import CartCard from "../Pages/CartCard";
 import { useAuth } from "@/Context/AuthContext";
+import { API_BASE } from "@/api";
 
 const Cart = () => {
   const navigate = useNavigate();
@@ -15,7 +16,7 @@ const Cart = () => {
   // Fetch cart items safely
   const fetchCart = useCallback(async () => {
     try {
-      const res = await fetch("http://localhost:3000/api/cart", {
+      const res = await fetch(`${API_BASE}/api/cart`, {
         headers: {
           "Content-Type": "application/json",
           Authorization: token,
@@ -77,7 +78,7 @@ const Cart = () => {
     );
 
     try {
-      await fetch("http://localhost:3000/api/cart", {
+      await fetch(`${API_BASE}/api/cart`, {
         method: "PUT",
         headers: {
           "Content-Type": "application/json",
@@ -94,7 +95,7 @@ const Cart = () => {
   // ✅ Delete single item
   const deleteItem = async (productId) => {
     try {
-      const res = await fetch(`http://localhost:3000/api/cart/${productId}`, {
+      const res = await fetch(`${API_BASE}/api/cart/${productId}`, {
         method: "DELETE",
         headers: {
           "Content-Type": "application/json",
@@ -117,7 +118,7 @@ const Cart = () => {
   // ✅ Clear cart
   const clearCart = async () => {
     try {
-      const res = await fetch("http://localhost:3000/api/cart/clear", {
+      const res = await fetch(`${API_BASE}/api/cart/clear`, {
         method: "DELETE",
         headers: {
           "Content-Type": "application/json",

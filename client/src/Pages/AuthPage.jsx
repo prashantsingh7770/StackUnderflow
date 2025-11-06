@@ -2,6 +2,7 @@
 import React, { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { useAuth } from "@/Context/AuthContext";
+import { API_BASE } from "@/api";
 
 export default function AuthPage() {
   const { login , isAuthenticated } = useAuth();
@@ -36,7 +37,7 @@ export default function AuthPage() {
     e.preventDefault();
     const { email, password } = form;
     try {
-      const res = await fetch("http://localhost:3000/api/users/signin", {
+      const res = await fetch(`${API_BASE}/api/users/signin`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ email, password }),
@@ -75,7 +76,7 @@ export default function AuthPage() {
       return;
     }
     try {
-      const res = await fetch("http://localhost:3000/api/users/signup", {
+      const res = await fetch(`${API_BASE}/api/users/signup`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ name, email, password, role }),
